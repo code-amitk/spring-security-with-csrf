@@ -1,0 +1,8 @@
+spring:
+  application:
+   name: spring-security-with-csrf
+
+  security:
+    user:
+      name: amit
+      password: a@123
