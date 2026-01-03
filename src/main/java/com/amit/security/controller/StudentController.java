@@ -1,7 +1,6 @@
-package com.amit.security;
+package com.amit.security.controller;
 
-import jakarta.servlet.http.HttpServletRequest;
-import org.springframework.security.web.server.csrf.CsrfToken;
+import com.amit.security.model.Student;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
